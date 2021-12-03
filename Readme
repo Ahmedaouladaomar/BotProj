@@ -15,6 +15,6 @@ To run the rasa chatbot: (split terminals)
 rasa run --cors "*" --enable-api
 rasa run actions
 
-![screen](https://github.com/Ahmedaouladaomar/BotProj/blob/main/platbot.png?raw=true)
+![screen](https://github.com/Ahmedaouladaomar/BotProj/blob/main/platbot.png)
 
 ![screen](platbot.png?raw=true)
