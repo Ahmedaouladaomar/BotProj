@@ -16,4 +16,4 @@ rasa run --cors "*" --enable-api
 rasa run actions
 
 
-!(https://github.com/Ahmedaouladaomar/BotProj/blob/main/platbot.png?raw=true)
+!alt(https://github.com/Ahmedaouladaomar/BotProj/blob/main/platbot.png?raw=true)
