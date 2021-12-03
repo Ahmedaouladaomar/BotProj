@@ -2,17 +2,17 @@ The project is about a website with an integrated chatbot that communicates with
 
 To run the frontend:
 
-npm intsall
+npm intsall //
 npm start
 
 To run the backend:
 
-npm install
+npm install //
 nodemon start
 
 To run the rasa chatbot: (split terminals)
 
-rasa run --cors "*" --enable-api
+rasa run --cors "*" --enable-api //
 rasa run actions
 
 
